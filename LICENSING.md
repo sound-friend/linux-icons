@@ -26,6 +26,8 @@ Below is the credits for all information to the images I have recieved:
  ReactOS: https://upload.wikimedia.org/wikipedia/commons/b/b7/ReactOS_logo.svg
  system76: https://github.com/system76/brand/blob/master/System76%20branding/system76-logo_secondary.svg
  Void Linux: https://upload.wikimedia.org/wikipedia/commons/0/02/Void_Linux_logo.svg
+ UBlue: Provided by the wonderful staff in their Discord!
+ Bazzite: Same as above ^
  
  
 ### logos/Official Logos (No Text)/

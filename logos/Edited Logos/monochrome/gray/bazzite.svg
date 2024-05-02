@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="500mm"
+   height="500mm"
+   viewBox="0 0 1889.7638 1889.7638"
+   fill="none"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="bazzite.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.56720065"
+     inkscape:cx="1205.0409"
+     inkscape:cy="852.43202"
+     inkscape:window-width="1714"
+     inkscape:window-height="1339"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g8"
+     inkscape:document-units="mm" />
+  <g
+     id="g8"
+     transform="matrix(3.7795276,0,0,3.7795276,-377.95276,-377.95276)">
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="m 249.53271,100 h 74.76635 v 149.53271 h 156.75818 c 65.69042,0 118.94275,53.25233 118.94275,118.94275 0,127.86683 -103.65654,231.52453 -231.52453,231.52453 -65.69042,0 -118.94275,-53.25233 -118.94275,-118.94275 V 324.29906 H 100 v -74.76635 h 149.53271 z m 74.76635,224.29906 v 156.75818 c 0,24.39836 19.77804,44.1764 44.1764,44.1764 86.57477,0 156.75818,-70.18341 156.75818,-156.75818 0,-24.39836 -19.77804,-44.1764 -44.1764,-44.1764 z"
+       fill="#ffffff"
+       fill-opacity="0.5"
+       id="path2"
+       style="stroke-width:1.16822;fill:#1f2023;fill-opacity:0.86666662" />
+    <path
+       d="m 324.29906,170.09346 c 0,-19.35631 -15.69042,-35.04673 -35.04673,-35.04673 h -4.67289 c -19.35631,0 -35.04673,15.69042 -35.04673,35.04673 v 79.43925 h -79.43925 c -19.35631,0 -35.04673,15.69042 -35.04673,35.04673 v 4.67289 c 0,19.35631 15.69042,35.04673 35.04673,35.04673 h 79.43925 v 79.43925 c 0,19.35631 15.69042,35.04673 35.04673,35.04673 h 4.67289 c 19.35631,0 35.04673,-15.69042 35.04673,-35.04673 v -79.43925 h 79.43925 c 19.35631,0 35.04673,-15.69042 35.04673,-35.04673 v -4.67289 c 0,-19.35631 -15.69042,-35.04673 -35.04673,-35.04673 h -79.43925 z"
+       fill="#ffffff"
+       fill-opacity="0.7"
+       id="path3"
+       style="stroke-width:1.16822;fill:#1f2023;fill-opacity:0.86666662" />
+    <path
+       d="m 406.65888,281.85747 c 3.89369,2.24767 3.89369,7.86916 0,10.11683 l -24.53271,14.16355 c -3.8937,2.24883 -8.76169,-0.56192 -8.76169,-5.05841 v -28.32711 c 0,-4.49649 4.86799,-7.30724 8.76169,-5.05841 z"
+       fill="#ffffff"
+       id="path4"
+       style="stroke-width:1.16822;fill:#1f2023;fill-opacity:0.86666662" />
+    <path
+       d="m 291.9743,406.65888 c -2.24767,3.89369 -7.86916,3.89369 -10.11683,0 l -14.16355,-24.53271 c -2.24883,-3.8937 0.56192,-8.76169 5.05841,-8.76169 h 28.32711 c 4.49649,0 7.30724,4.86799 5.05841,8.76169 z"
+       fill="#ffffff"
+       id="path5"
+       style="stroke-width:1.16822;fill:#1f2023;fill-opacity:0.86666662" />
+    <path
+       d="m 281.85747,167.1729 c 2.24767,-3.8937 7.86916,-3.8937 10.11683,0 l 14.16355,24.53271 c 2.24883,3.89369 -0.56192,8.76168 -5.05841,8.76168 h -28.32711 c -4.49649,0 -7.30724,-4.86799 -5.05841,-8.76168 z"
+       fill="#ffffff"
+       id="path6"
+       style="stroke-width:1.16822;fill:#1f2023;fill-opacity:0.86666662" />
+    <path
+       d="m 167.1729,291.9743 c -3.8937,-2.24767 -3.8937,-7.86916 0,-10.11683 l 24.53271,-14.16355 c 3.89369,-2.24883 8.76168,0.56192 8.76168,5.05841 v 28.32711 c 0,4.49649 -4.86799,7.30724 -8.76168,5.05841 z"
+       fill="#ffffff"
+       id="path7"
+       style="stroke-width:1.16822;fill:#1f2023;fill-opacity:0.86666662" />
+  </g>
+  <defs
+     id="defs8">
+    <linearGradient
+       id="paint0_linear_1040_3413"
+       x1="100"
+       y1="100"
+       x2="600"
+       y2="600"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.0684898"
+         stop-color="#0047AB"
+         id="stop7" />
+      <stop
+         offset="0.741212"
+         stop-color="#8A2BE2"
+         id="stop8" />
+    </linearGradient>
+  </defs>
+</svg>
