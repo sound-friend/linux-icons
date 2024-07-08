@@ -9,6 +9,8 @@ This is a collection of Icons for some of the main Linux Discord servers, althou
 ## Current Provided Icons
 
 Arch
+Bazzite
+CachyOS
 Endeavour OS
 Fedora
 Gentoo
@@ -20,10 +22,11 @@ Pop!_OS
 ReactOS
 System76 (Parent company of Pop!_OS)
 Void Linux
+UBlue
 
 ## Standards
 
-In oredr to keep everything consistient, there are standards to be put into place, incase someone wishes to add their own icons and assets to  the repository
+In order to keep everything consistient, there are standards to be put into place, incase someone wishes to add their own icons and assets to  the repository
 
 ### Assets
 Including everything that is *not* an item to be used directly as an icon for a server (such as logos and templates) should be in an .SVG format, and use transparency when applicable. 

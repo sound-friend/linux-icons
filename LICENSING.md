@@ -14,6 +14,7 @@ Below is the credits for all information to the images I have recieved:
 
 ### logos/Official Logos (Unedited)/
  Arch Linux: https://archlinux.org/static/logos/archlinux-logo-white-scalable.847eeafd581c.svg
+ CachyOS: https://github.com/CachyOS/CachyOS-icons
  Endeavour OS: https://upload.wikimedia.org/wikipedia/commons/4/4b/EndeavourOS_Logo.svg
  Fedora: https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg
  Gentoo: https://www.gentoo.org/inside-gentoo/artwork/gentoo-logo.html
